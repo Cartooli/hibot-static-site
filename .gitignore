@@ -1,0 +1,9 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local env (this template needs none — keep secrets out of git)
+.env
+.env.*
