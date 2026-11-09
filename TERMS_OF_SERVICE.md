@@ -6,7 +6,7 @@
 
 **Service:** [YOUR SITE NAME]
 **Operator:** Hi, Bot
-**Contact:** rob@cartooli.com
+**Contact:** open a GitHub Issue at https://github.com/Cartooli/hibot-static-site/issues (no public email)
 **Governing law:** [JURISDICTION]
 **Last updated:** [DATE]
 
@@ -32,4 +32,4 @@ The site is provided without warranties of any kind. To the extent permitted by 
 We may update these terms. Continued use after changes means you accept the updated terms.
 
 ## 8. Contact
-Questions? Email rob@cartooli.com.
+Questions? Open a GitHub Issue at https://github.com/Cartooli/hibot-static-site/issues.

@@ -4,7 +4,7 @@
 
 **Service:** [YOUR SITE NAME]
 **Operator:** Hi, Bot
-**Contact:** rob@cartooli.com
+**Contact:** open a GitHub Issue at https://github.com/Cartooli/hibot-static-site/issues (no public email)
 **Last updated:** [DATE]
 
 ## What we collect
@@ -23,4 +23,4 @@ This site is general-audience and does not knowingly collect any information fro
 If you add forms, analytics, or other data collection later, update this policy to describe it.
 
 ## Contact
-Questions? Email rob@cartooli.com.
+Questions? Open a GitHub Issue at https://github.com/Cartooli/hibot-static-site/issues.
